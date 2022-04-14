@@ -6,3 +6,5 @@ a_float = 3.16
 another_float = 45.7
 red_is_color = true
 ball_is_square = false
+favorite_drink = seltzer
+favorite_plant = lilac
